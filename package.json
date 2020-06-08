@@ -1,0 +1,26 @@
+{
+  "name": "ionomy-node",
+  "version": "1.0.0",
+  "description": "Ionomy API client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "ionomy",
+    "typescript",
+    "ionomy-node"
+  ],
+  "author": "Reazul Iqbal <hello@reazul.net>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "crypto": "^1.0.1",
+    "https": "^1.0.0",
+    "moment": "^2.24.0",
+    "momentjs": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.12"
+  }
+}
